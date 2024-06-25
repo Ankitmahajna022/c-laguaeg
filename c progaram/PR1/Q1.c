@@ -3,7 +3,7 @@
 
 main()
 {
-  float celsius,faherenheit,remainingCelsius;
+  float celsius,faherenheit;
   
   printf("Enter celsius:");
   scanf("%f",&celsius);
