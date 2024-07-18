@@ -39,7 +39,7 @@ switch(grade)
 
 
 	
-	if(grade=='A'|| 'B'|| 'C'||'D')
+	if(grade=='A'|| grade=='B'|| grade=='C'||grade=='D')
 	{
 		printf("You are eligible for the next level.");
 	}
