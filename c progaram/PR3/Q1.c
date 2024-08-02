@@ -10,6 +10,6 @@ void main()
 	{
 
 	    printf("%c ",ca);
-		ca+=4;//a+4=e....i....m..q....y
+		ca+=4;//a+4=e....i....m..q....u....y
 	}while(ca<='z');
 }
