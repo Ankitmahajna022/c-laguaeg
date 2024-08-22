@@ -4,7 +4,7 @@ void main()
 {
 	int i,n;
 	
-    printf("Enter A Size of arrya:");
+    printf("Enter  Size of arrya:");
     scanf("%d",&n);
     printf("\n");
     
