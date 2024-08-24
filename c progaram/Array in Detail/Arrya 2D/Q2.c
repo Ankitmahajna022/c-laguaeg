@@ -29,17 +29,16 @@ void main()
     for (i = 0;i<n1;i++) 
 	{
         for (j = 0;j<n2;j++) 
-		{
+	{
             printf("b[%d][%d] = ", i, j);
             scanf("%d", &b[i][j]);
         }
-        printf("\n");
     }
     
     for (i = 0;i<n1;i++) 
 	{
         for (j = 0;j<n2;j++) 
-		{
+	{
             printf("%d ",a[i][j]);
         }
         printf("\n");
@@ -48,7 +47,7 @@ void main()
     for (i = 0;i<n1;i++) 
 	{
         for (j = 0;j<n2;j++) 
-		{
+	{
           printf("%d ",b[i][j]);
         }
         printf("\n");
@@ -57,7 +56,7 @@ void main()
      for (i = 0;i<n1;i++) 
 	{
         for (j = 0;j<n2;j++) 
-		{
+	{
              c[i][j]=a[i][j]+b[i][j];
         }
         printf("\n");
@@ -66,7 +65,7 @@ void main()
      for (i = 0;i<n1;i++) 
 	{
         for (j = 0;j<n2;j++) 
-		{
+	{
             printf("%d ",c [i][j]);
         }
         printf("\n");
